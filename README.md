@@ -7,7 +7,8 @@ This repository contains my work for the **QuantChallenge 2025**, a quantitative
   - **`main.py`** – main script to run analyses and execute experiments.
   - **`utils.py`** – utility functions for data processing and common tasks.
   - **`utils.py`** – implementations of the predictive models used in the challenge.
-
+- **`/trading`** – Algorithmic trading implementations:
+  - **Python** for prototyping trading strategies.
 
 ## 🎯 Goals
 - Explore and analyze the datasets provided by the challenge.
