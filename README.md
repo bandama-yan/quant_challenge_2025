@@ -14,7 +14,5 @@ This repository contains my work for the **QuantChallenge 2025**, a quantitative
 - Develop and benchmark predictive models.
 - Design, test, and optimize algorithmic trading strategies.
 
-## 🔧 Setup
-Clone the repository and install dependencies:
-```bash
+
 
